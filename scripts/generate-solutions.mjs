@@ -28,10 +28,14 @@ const existingFiles = new Set(await readdir(root));
 const availableTasks = tasks.filter(
   (task) => !existingFiles.has(`${slugify(task.name)}.js`),
 );
+const selectedTasks = availableTasks.length > 0
+  ? shuffle([...availableTasks]).slice(0, Math.min(requestedCount, availableTasks.length))
+  : [await createNewTask(tasks)];
+
 if (availableTasks.length === 0) {
-  throw new Error("Для всех задач из complete-tasks.json уже есть JS-файлы в корне проекта.");
+  await writeFile(tasksPath, `${JSON.stringify(tasks, null, 2)}\n`, "utf8");
+  console.log(`Новая задача добавлена в ${tasksPath}`);
 }
-const selectedTasks = shuffle([...availableTasks]).slice(0, Math.min(requestedCount, availableTasks.length));
 
 for (const task of selectedTasks) {
   const generated = await generateSolution(task);
@@ -130,4 +134,74 @@ async function generateSolution(task) {
     throw new Error("Ответ DeepSeek не содержит statement и solution.");
   }
   return parsed;
+}
+
+async function createNewTask(taskList) {
+  const knownNames = taskList.map((task) => task.name).join(", ");
+  const response = await fetch("https://api.deepseek.com/chat/completions", {
+    method: "POST",
+    headers: {
+      Authorization: `Bearer ${apiKey}`,
+      "Content-Type": "application/json",
+    },
+    body: JSON.stringify({
+      model,
+      temperature: 0.9,
+      response_format: { type: "json_object" },
+      messages: [
+        {
+          role: "system",
+          content: "Ты автор новых задач по алгоритмам. Отвечай только корректным JSON без markdown-обёртки.",
+        },
+        {
+          role: "user",
+          content: `Придумай новую оригинальную задачу по алгоритмам для практики на JavaScript.
+Не повторяй названия уже известных задач: ${knownNames}
+
+Верни объект строго такого вида:
+{
+  "name": "короткое название на английском языке",
+  "complexity": "hard | medium | easy"
+}
+
+Задача должна быть решаемой, интересной и соответствовать указанной сложности.`,
+        },
+      ],
+    }),
+  });
+
+  if (!response.ok) {
+    const details = await response.text();
+    throw new Error(`DeepSeek API вернул ${response.status}: ${details}`);
+  }
+
+  const payload = await response.json();
+  const content = payload.choices?.[0]?.message?.content;
+  if (!content) {
+    throw new Error("DeepSeek API не вернул новую задачу.");
+  }
+
+  const task = JSON.parse(content);
+  if (
+    typeof task.name !== "string" ||
+    !task.name.trim() ||
+    !["easy", "medium", "hard"].includes(task.complexity)
+  ) {
+    throw new Error("DeepSeek вернул задачу в неверном формате.");
+  }
+
+  if (taskList.some((knownTask) => slugify(knownTask.name) === slugify(task.name))) {
+    throw new Error(`DeepSeek сгенерировал дубликат задачи: ${task.name}`);
+  }
+
+  const createdAt = new Intl.DateTimeFormat("ru-RU", {
+    timeZone: "UTC",
+  }).format(new Date());
+  const newTask = {
+    name: task.name.trim(),
+    complexity: task.complexity,
+    createdAt,
+  };
+  taskList.push(newTask);
+  return newTask;
 }

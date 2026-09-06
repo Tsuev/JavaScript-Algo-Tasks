@@ -38,7 +38,7 @@ jobs:
           for ((index=1; index<=count; index++)); do
             echo "Генерация решения $index/$count"
             TASK_COUNT=1 node scripts/generate-solutions.mjs
-            git add -- '*.js'
+            git add -- '*.js' complete-tasks.json
             git commit -m "chore: add daily algorithm solution $index/$count"
             git push
 
