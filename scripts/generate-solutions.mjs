@@ -1,9 +1,8 @@
-import { mkdir, readdir, readFile, writeFile } from "node:fs/promises";
+import { readdir, readFile, writeFile } from "node:fs/promises";
 import { join } from "node:path";
 
 const root = process.cwd();
 const tasksPath = join(root, "complete-tasks.json");
-const outputDir = join(root, "solutions");
 const apiKey = process.env.DEEPSEEK_API_KEY;
 const model = process.env.DEEPSEEK_MODEL || "deepseek-chat";
 
@@ -25,19 +24,20 @@ const today = new Intl.DateTimeFormat("en-CA", {
   timeZone: "UTC",
 }).format(new Date());
 
-await mkdir(outputDir, { recursive: true });
-const existingFiles = new Set(await readdir(outputDir));
+const existingFiles = new Set(await readdir(root));
 const availableTasks = tasks.filter(
-  (task) => !existingFiles.has(`${today}-${slugify(task.name)}.js`),
+  (task) => !existingFiles.has(`${slugify(task.name)}.js`),
 );
-const taskPool = availableTasks.length > 0 ? availableTasks : tasks;
-const selectedTasks = shuffle([...taskPool]).slice(0, Math.min(requestedCount, taskPool.length));
+if (availableTasks.length === 0) {
+  throw new Error("Для всех задач из complete-tasks.json уже есть JS-файлы в корне проекта.");
+}
+const selectedTasks = shuffle([...availableTasks]).slice(0, Math.min(requestedCount, availableTasks.length));
 
 for (const task of selectedTasks) {
   const generated = await generateSolution(task);
   const slug = slugify(task.name);
-  const filename = `${today}-${slug}.js`;
-  const filePath = join(outputDir, filename);
+  const filename = `${slug}.js`;
+  const filePath = join(root, filename);
 
   const contents = [
     `// Задача: ${task.name}`,
