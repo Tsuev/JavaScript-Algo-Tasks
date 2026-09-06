@@ -1,0 +1,32 @@
+[
+  {
+    "name": "Two Sum",
+    "complexity": "easy",
+    "createdAt": "22.01.2026"
+  },
+  {
+    "name": "Valid Parentheses",
+    "complexity": "easy",
+    "createdAt": "22.01.2026"
+  },
+  {
+    "name": "Merge Intervals",
+    "complexity": "medium",
+    "createdAt": "22.01.2026"
+  },
+  {
+    "name": "Longest Substring Without Repeating Characters",
+    "complexity": "medium",
+    "createdAt": "22.01.2026"
+  },
+  {
+    "name": "Word Ladder",
+    "complexity": "hard",
+    "createdAt": "22.01.2026"
+  },
+  {
+    "name": "LRU Cache",
+    "complexity": "hard",
+    "createdAt": "22.01.2026"
+  }
+]
