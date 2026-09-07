@@ -28,5 +28,10 @@
     "name": "LRU Cache",
     "complexity": "hard",
     "createdAt": "22.01.2026"
+  },
+  {
+    "name": "Teleport Network",
+    "complexity": "hard",
+    "createdAt": "07.09.2026"
   }
 ]
