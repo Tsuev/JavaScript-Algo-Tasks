@@ -43,5 +43,10 @@
     "name": "Infinite Matrix Sum",
     "complexity": "medium",
     "createdAt": "08.09.2026"
+  },
+  {
+    "name": "Minimize Warehouse Travel",
+    "complexity": "hard",
+    "createdAt": "08.09.2026"
   }
 ]
