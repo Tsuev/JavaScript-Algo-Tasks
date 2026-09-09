@@ -48,5 +48,10 @@
     "name": "Minimize Warehouse Travel",
     "complexity": "hard",
     "createdAt": "08.09.2026"
+  },
+  {
+    "name": "Expiring Nodes",
+    "complexity": "medium",
+    "createdAt": "09.09.2026"
   }
 ]
