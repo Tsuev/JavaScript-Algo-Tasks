@@ -53,5 +53,10 @@
     "name": "Expiring Nodes",
     "complexity": "medium",
     "createdAt": "09.09.2026"
+  },
+  {
+    "name": "Maze of Mirrors",
+    "complexity": "medium",
+    "createdAt": "09.09.2026"
   }
 ]
