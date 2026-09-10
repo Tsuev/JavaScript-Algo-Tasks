@@ -58,5 +58,10 @@
     "name": "Maze of Mirrors",
     "complexity": "medium",
     "createdAt": "09.09.2026"
+  },
+  {
+    "name": "Chrono-Network Routing",
+    "complexity": "hard",
+    "createdAt": "10.09.2026"
   }
 ]
