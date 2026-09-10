@@ -63,5 +63,10 @@
     "name": "Chrono-Network Routing",
     "complexity": "hard",
     "createdAt": "10.09.2026"
+  },
+  {
+    "name": "Rainbow Segments",
+    "complexity": "medium",
+    "createdAt": "10.09.2026"
   }
 ]
