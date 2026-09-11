@@ -68,5 +68,10 @@
     "name": "Rainbow Segments",
     "complexity": "medium",
     "createdAt": "10.09.2026"
+  },
+  {
+    "name": "Entangled Bits",
+    "complexity": "hard",
+    "createdAt": "11.09.2026"
   }
 ]
