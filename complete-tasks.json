@@ -73,5 +73,10 @@
     "name": "Entangled Bits",
     "complexity": "hard",
     "createdAt": "11.09.2026"
+  },
+  {
+    "name": "Aether Currents",
+    "complexity": "medium",
+    "createdAt": "12.09.2026"
   }
 ]
