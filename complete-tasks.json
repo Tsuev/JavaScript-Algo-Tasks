@@ -78,5 +78,10 @@
     "name": "Aether Currents",
     "complexity": "medium",
     "createdAt": "12.09.2026"
+  },
+  {
+    "name": "Quartz Vein Extraction",
+    "complexity": "hard",
+    "createdAt": "13.09.2026"
   }
 ]
