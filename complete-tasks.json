@@ -88,5 +88,10 @@
     "name": "Nebula Navigation",
     "complexity": "hard",
     "createdAt": "13.09.2026"
+  },
+  {
+    "name": "Chromatic Cascade Routing",
+    "complexity": "hard",
+    "createdAt": "13.09.2026"
   }
 ]
