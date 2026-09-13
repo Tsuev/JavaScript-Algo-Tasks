@@ -83,5 +83,10 @@
     "name": "Quartz Vein Extraction",
     "complexity": "hard",
     "createdAt": "13.09.2026"
+  },
+  {
+    "name": "Nebula Navigation",
+    "complexity": "hard",
+    "createdAt": "13.09.2026"
   }
 ]
