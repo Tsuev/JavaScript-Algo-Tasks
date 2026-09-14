@@ -98,5 +98,10 @@
     "name": "Echo Chamber Elimination",
     "complexity": "medium",
     "createdAt": "14.09.2026"
+  },
+  {
+    "name": "Kaleidoscope Symmetry",
+    "complexity": "hard",
+    "createdAt": "14.09.2026"
   }
 ]
