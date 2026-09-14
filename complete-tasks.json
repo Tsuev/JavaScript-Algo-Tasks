@@ -93,5 +93,10 @@
     "name": "Chromatic Cascade Routing",
     "complexity": "hard",
     "createdAt": "13.09.2026"
+  },
+  {
+    "name": "Echo Chamber Elimination",
+    "complexity": "medium",
+    "createdAt": "14.09.2026"
   }
 ]
