@@ -108,5 +108,10 @@
     "name": "Prism Refraction Paths",
     "complexity": "hard",
     "createdAt": "14.09.2026"
+  },
+  {
+    "name": "Firefly Sync Grid",
+    "complexity": "medium",
+    "createdAt": "15.09.2026"
   }
 ]
