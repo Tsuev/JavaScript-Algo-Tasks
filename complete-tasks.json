@@ -123,5 +123,10 @@
     "name": "Rune Cascade Forge",
     "complexity": "hard",
     "createdAt": "18.09.2026"
+  },
+  {
+    "name": "Cascade Gear Alignment",
+    "complexity": "medium",
+    "createdAt": "18.09.2026"
   }
 ]
