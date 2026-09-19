@@ -133,5 +133,10 @@
     "name": "Hieroglyphic Decryption",
     "complexity": "medium",
     "createdAt": "19.09.2026"
+  },
+  {
+    "name": "Quantum Swap",
+    "complexity": "hard",
+    "createdAt": "19.09.2026"
   }
 ]
