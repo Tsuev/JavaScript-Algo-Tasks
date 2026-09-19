@@ -128,5 +128,10 @@
     "name": "Cascade Gear Alignment",
     "complexity": "medium",
     "createdAt": "18.09.2026"
+  },
+  {
+    "name": "Hieroglyphic Decryption",
+    "complexity": "medium",
+    "createdAt": "19.09.2026"
   }
 ]
