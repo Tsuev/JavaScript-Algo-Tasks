@@ -138,5 +138,10 @@
     "name": "Quantum Swap",
     "complexity": "hard",
     "createdAt": "19.09.2026"
+  },
+  {
+    "name": "Mass-Driven Descent",
+    "complexity": "hard",
+    "createdAt": "19.09.2026"
   }
 ]
