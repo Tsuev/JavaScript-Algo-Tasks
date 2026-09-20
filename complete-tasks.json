@@ -143,5 +143,10 @@
     "name": "Mass-Driven Descent",
     "complexity": "hard",
     "createdAt": "19.09.2026"
+  },
+  {
+    "name": "Obsidian Shard Mosaic",
+    "complexity": "hard",
+    "createdAt": "20.09.2026"
   }
 ]
