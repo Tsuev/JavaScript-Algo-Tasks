@@ -168,5 +168,10 @@
     "name": "Phantom Fragment Assembly",
     "complexity": "hard",
     "createdAt": "22.09.2026"
+  },
+  {
+    "name": "Void Bridge Balancing",
+    "complexity": "hard",
+    "createdAt": "22.09.2026"
   }
 ]
