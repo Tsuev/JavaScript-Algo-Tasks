@@ -158,5 +158,10 @@
     "name": "Glacier Flow Gates",
     "complexity": "hard",
     "createdAt": "21.09.2026"
+  },
+  {
+    "name": "Tidal Lantern Relay",
+    "complexity": "hard",
+    "createdAt": "22.09.2026"
   }
 ]
