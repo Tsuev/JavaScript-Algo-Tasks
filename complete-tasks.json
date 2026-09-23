@@ -178,5 +178,10 @@
     "name": "Cinder Trail Convergence",
     "complexity": "hard",
     "createdAt": "23.09.2026"
+  },
+  {
+    "name": "Magnetic Filament Weaving",
+    "complexity": "medium",
+    "createdAt": "23.09.2026"
   }
 ]
