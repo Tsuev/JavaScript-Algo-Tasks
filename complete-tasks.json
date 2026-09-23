@@ -173,5 +173,10 @@
     "name": "Void Bridge Balancing",
     "complexity": "hard",
     "createdAt": "22.09.2026"
+  },
+  {
+    "name": "Cinder Trail Convergence",
+    "complexity": "hard",
+    "createdAt": "23.09.2026"
   }
 ]
