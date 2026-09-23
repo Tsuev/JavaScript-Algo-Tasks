@@ -183,5 +183,10 @@
     "name": "Magnetic Filament Weaving",
     "complexity": "medium",
     "createdAt": "23.09.2026"
+  },
+  {
+    "name": "Emberlight Rationing",
+    "complexity": "hard",
+    "createdAt": "23.09.2026"
   }
 ]
