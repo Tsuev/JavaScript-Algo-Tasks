@@ -198,5 +198,10 @@
     "name": "Hollow Reef Sonar",
     "complexity": "medium",
     "createdAt": "24.09.2026"
+  },
+  {
+    "name": "Solar Sail Slingshot",
+    "complexity": "medium",
+    "createdAt": "24.09.2026"
   }
 ]
