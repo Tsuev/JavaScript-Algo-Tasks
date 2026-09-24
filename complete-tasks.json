@@ -193,5 +193,10 @@
     "name": "Aurora Pulse Synchronization",
     "complexity": "hard",
     "createdAt": "24.09.2026"
+  },
+  {
+    "name": "Hollow Reef Sonar",
+    "complexity": "medium",
+    "createdAt": "24.09.2026"
   }
 ]
