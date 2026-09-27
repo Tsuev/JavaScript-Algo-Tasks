@@ -213,5 +213,10 @@
     "name": "Leyline Knot Untangling",
     "complexity": "hard",
     "createdAt": "27.09.2026"
+  },
+  {
+    "name": "Static Bloom Propagation",
+    "complexity": "hard",
+    "createdAt": "27.09.2026"
   }
 ]
