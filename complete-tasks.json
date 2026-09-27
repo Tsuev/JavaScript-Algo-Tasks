@@ -218,5 +218,10 @@
     "name": "Static Bloom Propagation",
     "complexity": "hard",
     "createdAt": "27.09.2026"
+  },
+  {
+    "name": "Whispering Gallery Foci",
+    "complexity": "hard",
+    "createdAt": "27.09.2026"
   }
 ]
