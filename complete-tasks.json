@@ -208,5 +208,10 @@
     "name": "Clockwork Orchard Pruning",
     "complexity": "hard",
     "createdAt": "25.09.2026"
+  },
+  {
+    "name": "Leyline Knot Untangling",
+    "complexity": "hard",
+    "createdAt": "27.09.2026"
   }
 ]
