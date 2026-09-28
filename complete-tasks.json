@@ -223,5 +223,10 @@
     "name": "Whispering Gallery Foci",
     "complexity": "hard",
     "createdAt": "27.09.2026"
+  },
+  {
+    "name": "Tesseract Traversal",
+    "complexity": "hard",
+    "createdAt": "28.09.2026"
   }
 ]
