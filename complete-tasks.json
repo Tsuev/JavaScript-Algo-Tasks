@@ -228,5 +228,10 @@
     "name": "Tesseract Traversal",
     "complexity": "hard",
     "createdAt": "28.09.2026"
+  },
+  {
+    "name": "Mirage Canal Routing",
+    "complexity": "hard",
+    "createdAt": "29.09.2026"
   }
 ]
