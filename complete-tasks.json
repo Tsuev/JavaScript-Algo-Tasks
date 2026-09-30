@@ -238,5 +238,10 @@
     "name": "Carillon Reunion",
     "complexity": "medium",
     "createdAt": "29.09.2026"
+  },
+  {
+    "name": "Alternating Tree Diameter",
+    "complexity": "hard",
+    "createdAt": "30.09.2026"
   }
 ]
