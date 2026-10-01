@@ -248,5 +248,10 @@
     "name": "Solstice Shadow Mapping",
     "complexity": "medium",
     "createdAt": "30.09.2026"
+  },
+  {
+    "name": "Gossamer Thread Binding",
+    "complexity": "hard",
+    "createdAt": "01.10.2026"
   }
 ]
