@@ -263,5 +263,10 @@
     "name": "Lantern Tether Partition",
     "complexity": "medium",
     "createdAt": "02.10.2026"
+  },
+  {
+    "name": "Zephyr Interference",
+    "complexity": "medium",
+    "createdAt": "02.10.2026"
   }
 ]
