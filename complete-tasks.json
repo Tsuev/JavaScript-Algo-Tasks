@@ -258,5 +258,10 @@
     "name": "Halcyon Tide Partition",
     "complexity": "medium",
     "createdAt": "02.10.2026"
+  },
+  {
+    "name": "Lantern Tether Partition",
+    "complexity": "medium",
+    "createdAt": "02.10.2026"
   }
 ]
