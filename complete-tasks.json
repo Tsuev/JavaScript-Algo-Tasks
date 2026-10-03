@@ -268,5 +268,10 @@
     "name": "Zephyr Interference",
     "complexity": "medium",
     "createdAt": "02.10.2026"
+  },
+  {
+    "name": "Velvet Loom Interlacing",
+    "complexity": "hard",
+    "createdAt": "03.10.2026"
   }
 ]
