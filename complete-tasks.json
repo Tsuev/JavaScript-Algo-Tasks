@@ -278,5 +278,10 @@
     "name": "Amber Resin Tapping",
     "complexity": "hard",
     "createdAt": "03.10.2026"
+  },
+  {
+    "name": "Verdigris Patina Propagation",
+    "complexity": "hard",
+    "createdAt": "03.10.2026"
   }
 ]
