@@ -288,5 +288,10 @@
     "name": "Avalanche Beacon Triangulation",
     "complexity": "hard",
     "createdAt": "04.10.2026"
+  },
+  {
+    "name": "Parallax Cable Splicing",
+    "complexity": "hard",
+    "createdAt": "04.10.2026"
   }
 ]
