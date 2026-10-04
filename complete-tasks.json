@@ -283,5 +283,10 @@
     "name": "Verdigris Patina Propagation",
     "complexity": "hard",
     "createdAt": "03.10.2026"
+  },
+  {
+    "name": "Avalanche Beacon Triangulation",
+    "complexity": "hard",
+    "createdAt": "04.10.2026"
   }
 ]
