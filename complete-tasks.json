@@ -298,5 +298,10 @@
     "name": "Petrichor Channel Weaver",
     "complexity": "medium",
     "createdAt": "05.10.2026"
+  },
+  {
+    "name": "Frostwork Fissure Tracing",
+    "complexity": "medium",
+    "createdAt": "05.10.2026"
   }
 ]
