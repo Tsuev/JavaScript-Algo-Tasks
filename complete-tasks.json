@@ -303,5 +303,10 @@
     "name": "Frostwork Fissure Tracing",
     "complexity": "medium",
     "createdAt": "05.10.2026"
+  },
+  {
+    "name": "Sundial Slat Rotation",
+    "complexity": "hard",
+    "createdAt": "05.10.2026"
   }
 ]
