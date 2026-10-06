@@ -308,5 +308,10 @@
     "name": "Sundial Slat Rotation",
     "complexity": "hard",
     "createdAt": "05.10.2026"
+  },
+  {
+    "name": "Opaline Rift Mapping",
+    "complexity": "medium",
+    "createdAt": "06.10.2026"
   }
 ]
