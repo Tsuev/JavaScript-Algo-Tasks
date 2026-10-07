@@ -318,5 +318,10 @@
     "name": "Vortex Labyrinth Navigation",
     "complexity": "hard",
     "createdAt": "07.10.2026"
+  },
+  {
+    "name": "Mothlight Gradient Descent",
+    "complexity": "hard",
+    "createdAt": "07.10.2026"
   }
 ]
