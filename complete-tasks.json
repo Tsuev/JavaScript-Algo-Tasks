@@ -313,5 +313,10 @@
     "name": "Opaline Rift Mapping",
     "complexity": "medium",
     "createdAt": "06.10.2026"
+  },
+  {
+    "name": "Vortex Labyrinth Navigation",
+    "complexity": "hard",
+    "createdAt": "07.10.2026"
   }
 ]
