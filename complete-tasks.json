@@ -328,5 +328,10 @@
     "name": "Ferrofluid Lattice Fusion",
     "complexity": "hard",
     "createdAt": "07.10.2026"
+  },
+  {
+    "name": "Starlight Weave",
+    "complexity": "hard",
+    "createdAt": "08.10.2026"
   }
 ]
