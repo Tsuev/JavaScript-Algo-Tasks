@@ -348,5 +348,10 @@
     "name": "Neutrino Flux Routing",
     "complexity": "hard",
     "createdAt": "09.10.2026"
+  },
+  {
+    "name": "Quantum Circuit Simulation",
+    "complexity": "hard",
+    "createdAt": "09.10.2026"
   }
 ]
