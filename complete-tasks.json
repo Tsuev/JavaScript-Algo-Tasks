@@ -338,5 +338,10 @@
     "name": "Basalt Column Tessellation",
     "complexity": "hard",
     "createdAt": "08.10.2026"
+  },
+  {
+    "name": "Bioluminescent Drift Resonance",
+    "complexity": "hard",
+    "createdAt": "09.10.2026"
   }
 ]
