@@ -343,5 +343,10 @@
     "name": "Bioluminescent Drift Resonance",
     "complexity": "hard",
     "createdAt": "09.10.2026"
+  },
+  {
+    "name": "Neutrino Flux Routing",
+    "complexity": "hard",
+    "createdAt": "09.10.2026"
   }
 ]
