@@ -358,5 +358,10 @@
     "name": "Nautilus Chamber Compression",
     "complexity": "hard",
     "createdAt": "10.10.2026"
+  },
+  {
+    "name": "Termite Mound Ventilation",
+    "complexity": "hard",
+    "createdAt": "10.10.2026"
   }
 ]
