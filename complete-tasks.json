@@ -378,5 +378,10 @@
     "name": "Penumbra Lattice Sampling",
     "complexity": "hard",
     "createdAt": "11.10.2026"
+  },
+  {
+    "name": "Pulsar Timing Array",
+    "complexity": "hard",
+    "createdAt": "11.10.2026"
   }
 ]
