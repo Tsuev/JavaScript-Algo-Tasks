@@ -368,5 +368,10 @@
     "name": "Cinnabar Shard Fusion",
     "complexity": "hard",
     "createdAt": "10.10.2026"
+  },
+  {
+    "name": "Fractal Beacon Calibration",
+    "complexity": "hard",
+    "createdAt": "11.10.2026"
   }
 ]
