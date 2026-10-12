@@ -383,5 +383,10 @@
     "name": "Pulsar Timing Array",
     "complexity": "hard",
     "createdAt": "11.10.2026"
+  },
+  {
+    "name": "Mycelium Foraging Network",
+    "complexity": "hard",
+    "createdAt": "12.10.2026"
   }
 ]
