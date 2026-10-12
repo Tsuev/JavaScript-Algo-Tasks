@@ -388,5 +388,10 @@
     "name": "Mycelium Foraging Network",
     "complexity": "hard",
     "createdAt": "12.10.2026"
+  },
+  {
+    "name": "Karst Sinkhole Routing",
+    "complexity": "medium",
+    "createdAt": "12.10.2026"
   }
 ]
