@@ -393,5 +393,10 @@
     "name": "Karst Sinkhole Routing",
     "complexity": "medium",
     "createdAt": "12.10.2026"
+  },
+  {
+    "name": "Geyser Vent Synchronization",
+    "complexity": "hard",
+    "createdAt": "13.10.2026"
   }
 ]
