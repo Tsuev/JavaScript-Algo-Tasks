@@ -403,5 +403,10 @@
     "name": "Umbra Cascade Lock",
     "complexity": "hard",
     "createdAt": "14.10.2026"
+  },
+  {
+    "name": "Mangrove Root Aeration",
+    "complexity": "medium",
+    "createdAt": "14.10.2026"
   }
 ]
