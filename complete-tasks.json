@@ -408,5 +408,10 @@
     "name": "Mangrove Root Aeration",
     "complexity": "medium",
     "createdAt": "14.10.2026"
+  },
+  {
+    "name": "Quantum Foam Tunneling",
+    "complexity": "hard",
+    "createdAt": "14.10.2026"
   }
 ]
