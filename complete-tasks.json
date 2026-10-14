@@ -398,5 +398,10 @@
     "name": "Geyser Vent Synchronization",
     "complexity": "hard",
     "createdAt": "13.10.2026"
+  },
+  {
+    "name": "Umbra Cascade Lock",
+    "complexity": "hard",
+    "createdAt": "14.10.2026"
   }
 ]
