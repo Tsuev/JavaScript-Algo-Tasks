@@ -413,5 +413,10 @@
     "name": "Quantum Foam Tunneling",
     "complexity": "hard",
     "createdAt": "14.10.2026"
+  },
+  {
+    "name": "Sable Dune Ripple Propagation",
+    "complexity": "hard",
+    "createdAt": "15.10.2026"
   }
 ]
