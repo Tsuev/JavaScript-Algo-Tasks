@@ -423,5 +423,10 @@
     "name": "Pendulum Wave Synchrony",
     "complexity": "medium",
     "createdAt": "16.10.2026"
+  },
+  {
+    "name": "Tephra Layer Interleaving",
+    "complexity": "medium",
+    "createdAt": "16.10.2026"
   }
 ]
