@@ -428,5 +428,10 @@
     "name": "Tephra Layer Interleaving",
     "complexity": "medium",
     "createdAt": "16.10.2026"
+  },
+  {
+    "name": "Cosmic Ray Shielding",
+    "complexity": "hard",
+    "createdAt": "16.10.2026"
   }
 ]
