@@ -418,5 +418,10 @@
     "name": "Sable Dune Ripple Propagation",
     "complexity": "hard",
     "createdAt": "15.10.2026"
+  },
+  {
+    "name": "Pendulum Wave Synchrony",
+    "complexity": "medium",
+    "createdAt": "16.10.2026"
   }
 ]
