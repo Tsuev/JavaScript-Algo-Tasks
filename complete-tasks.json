@@ -438,5 +438,10 @@
     "name": "Origami Crane Unfolding",
     "complexity": "hard",
     "createdAt": "17.10.2026"
+  },
+  {
+    "name": "Lumen Well Overflow",
+    "complexity": "medium",
+    "createdAt": "17.10.2026"
   }
 ]
