@@ -433,5 +433,10 @@
     "name": "Cosmic Ray Shielding",
     "complexity": "hard",
     "createdAt": "16.10.2026"
+  },
+  {
+    "name": "Origami Crane Unfolding",
+    "complexity": "hard",
+    "createdAt": "17.10.2026"
   }
 ]
