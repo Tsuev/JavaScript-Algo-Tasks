@@ -448,5 +448,10 @@
     "name": "Cinderfall Crossing",
     "complexity": "medium",
     "createdAt": "18.10.2026"
+  },
+  {
+    "name": "Duskfall Circuit Reconciliation",
+    "complexity": "medium",
+    "createdAt": "18.10.2026"
   }
 ]
