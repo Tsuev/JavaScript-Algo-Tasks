@@ -443,5 +443,10 @@
     "name": "Lumen Well Overflow",
     "complexity": "medium",
     "createdAt": "17.10.2026"
+  },
+  {
+    "name": "Cinderfall Crossing",
+    "complexity": "medium",
+    "createdAt": "18.10.2026"
   }
 ]
