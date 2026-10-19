@@ -458,5 +458,10 @@
     "name": "Coral Bloom Cadence",
     "complexity": "medium",
     "createdAt": "18.10.2026"
+  },
+  {
+    "name": "Mosslight Spore Relay",
+    "complexity": "medium",
+    "createdAt": "19.10.2026"
   }
 ]
