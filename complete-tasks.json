@@ -468,5 +468,10 @@
     "name": "Chrysalis Membrane Diffusion",
     "complexity": "hard",
     "createdAt": "19.10.2026"
+  },
+  {
+    "name": "Cobalt Meridian Cartography",
+    "complexity": "hard",
+    "createdAt": "20.10.2026"
   }
 ]
