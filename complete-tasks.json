@@ -473,5 +473,10 @@
     "name": "Cobalt Meridian Cartography",
     "complexity": "hard",
     "createdAt": "20.10.2026"
+  },
+  {
+    "name": "Vellum Trace Reconstruction",
+    "complexity": "medium",
+    "createdAt": "20.10.2026"
   }
 ]
