@@ -483,5 +483,10 @@
     "name": "Ochre Kiln Sequencing",
     "complexity": "medium",
     "createdAt": "21.10.2026"
+  },
+  {
+    "name": "Pumice Raft Drift Routing",
+    "complexity": "hard",
+    "createdAt": "21.10.2026"
   }
 ]
