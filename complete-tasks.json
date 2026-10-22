@@ -493,5 +493,10 @@
     "name": "Fulgurite Branch Sealing",
     "complexity": "hard",
     "createdAt": "22.10.2026"
+  },
+  {
+    "name": "Saffron Echo Alignment",
+    "complexity": "hard",
+    "createdAt": "22.10.2026"
   }
 ]
