@@ -488,5 +488,10 @@
     "name": "Pumice Raft Drift Routing",
     "complexity": "hard",
     "createdAt": "21.10.2026"
+  },
+  {
+    "name": "Fulgurite Branch Sealing",
+    "complexity": "hard",
+    "createdAt": "22.10.2026"
   }
 ]
