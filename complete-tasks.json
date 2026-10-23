@@ -498,5 +498,10 @@
     "name": "Saffron Echo Alignment",
     "complexity": "hard",
     "createdAt": "22.10.2026"
+  },
+  {
+    "name": "Zircon Facet Balancing",
+    "complexity": "medium",
+    "createdAt": "23.10.2026"
   }
 ]
