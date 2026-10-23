@@ -508,5 +508,10 @@
     "name": "Driftglass Partition",
     "complexity": "hard",
     "createdAt": "23.10.2026"
+  },
+  {
+    "name": "Amber Lattice Rebalancing",
+    "complexity": "medium",
+    "createdAt": "23.10.2026"
   }
 ]
