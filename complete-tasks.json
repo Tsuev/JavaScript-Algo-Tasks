@@ -513,5 +513,10 @@
     "name": "Amber Lattice Rebalancing",
     "complexity": "medium",
     "createdAt": "23.10.2026"
+  },
+  {
+    "name": "Cerulean Winnowing Coil",
+    "complexity": "hard",
+    "createdAt": "24.10.2026"
   }
 ]
