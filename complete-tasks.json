@@ -518,5 +518,10 @@
     "name": "Cerulean Winnowing Coil",
     "complexity": "hard",
     "createdAt": "24.10.2026"
+  },
+  {
+    "name": "Moonpetal Bloom Ordering",
+    "complexity": "medium",
+    "createdAt": "25.10.2026"
   }
 ]
