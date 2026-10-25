@@ -523,5 +523,10 @@
     "name": "Moonpetal Bloom Ordering",
     "complexity": "medium",
     "createdAt": "25.10.2026"
+  },
+  {
+    "name": "Spindle Thread Reordering",
+    "complexity": "hard",
+    "createdAt": "25.10.2026"
   }
 ]
