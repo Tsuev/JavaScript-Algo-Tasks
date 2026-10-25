@@ -528,5 +528,10 @@
     "name": "Spindle Thread Reordering",
     "complexity": "hard",
     "createdAt": "25.10.2026"
+  },
+  {
+    "name": "Thistledown Beacon Reordering",
+    "complexity": "medium",
+    "createdAt": "25.10.2026"
   }
 ]
