@@ -533,5 +533,10 @@
     "name": "Thistledown Beacon Reordering",
     "complexity": "medium",
     "createdAt": "25.10.2026"
+  },
+  {
+    "name": "Zenith Chord Weaving",
+    "complexity": "hard",
+    "createdAt": "26.10.2026"
   }
 ]
