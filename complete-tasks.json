@@ -538,5 +538,10 @@
     "name": "Zenith Chord Weaving",
     "complexity": "hard",
     "createdAt": "26.10.2026"
+  },
+  {
+    "name": "Whale Fall Succession",
+    "complexity": "medium",
+    "createdAt": "27.10.2026"
   }
 ]
