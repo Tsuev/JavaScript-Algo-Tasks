@@ -548,5 +548,10 @@
     "name": "Nacreous Shoal Rebalancing",
     "complexity": "hard",
     "createdAt": "28.10.2026"
+  },
+  {
+    "name": "Quartz Hive Balancing",
+    "complexity": "medium",
+    "createdAt": "28.10.2026"
   }
 ]
