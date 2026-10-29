@@ -558,5 +558,10 @@
     "name": "Glasswing Migration Scheduling",
     "complexity": "medium",
     "createdAt": "28.10.2026"
+  },
+  {
+    "name": "Cinderbloom Rendezvous",
+    "complexity": "medium",
+    "createdAt": "29.10.2026"
   }
 ]
