@@ -573,5 +573,10 @@
     "name": "Nettlewick Strand Splicing",
     "complexity": "medium",
     "createdAt": "30.10.2026"
+  },
+  {
+    "name": "Glintfall Reconvergence",
+    "complexity": "hard",
+    "createdAt": "30.10.2026"
   }
 ]
