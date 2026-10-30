@@ -563,5 +563,10 @@
     "name": "Cinderbloom Rendezvous",
     "complexity": "medium",
     "createdAt": "29.10.2026"
+  },
+  {
+    "name": "Saltmarsh Firefly Ledger",
+    "complexity": "medium",
+    "createdAt": "30.10.2026"
   }
 ]
