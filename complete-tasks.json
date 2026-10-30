@@ -568,5 +568,10 @@
     "name": "Saltmarsh Firefly Ledger",
     "complexity": "medium",
     "createdAt": "30.10.2026"
+  },
+  {
+    "name": "Nettlewick Strand Splicing",
+    "complexity": "medium",
+    "createdAt": "30.10.2026"
   }
 ]
