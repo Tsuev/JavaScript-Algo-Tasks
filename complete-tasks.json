@@ -583,5 +583,10 @@
     "name": "Gloamwell Siphon Balancing",
     "complexity": "medium",
     "createdAt": "31.10.2026"
+  },
+  {
+    "name": "Serpentine Aqueduct Balancing",
+    "complexity": "hard",
+    "createdAt": "31.10.2026"
   }
 ]
