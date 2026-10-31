@@ -578,5 +578,10 @@
     "name": "Glintfall Reconvergence",
     "complexity": "hard",
     "createdAt": "30.10.2026"
+  },
+  {
+    "name": "Gloamwell Siphon Balancing",
+    "complexity": "medium",
+    "createdAt": "31.10.2026"
   }
 ]
