@@ -588,5 +588,10 @@
     "name": "Serpentine Aqueduct Balancing",
     "complexity": "hard",
     "createdAt": "31.10.2026"
+  },
+  {
+    "name": "Whisperfern Pollen Routing",
+    "complexity": "medium",
+    "createdAt": "01.11.2026"
   }
 ]
