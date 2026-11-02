@@ -598,5 +598,10 @@
     "name": "Nimbus Cairn Stabilization",
     "complexity": "medium",
     "createdAt": "02.11.2026"
+  },
+  {
+    "name": "Thawline Meltwater Routing",
+    "complexity": "hard",
+    "createdAt": "02.11.2026"
   }
 ]
