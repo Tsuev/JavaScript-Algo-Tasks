@@ -608,5 +608,10 @@
     "name": "Petrified Willow Ring Counting",
     "complexity": "medium",
     "createdAt": "02.11.2026"
+  },
+  {
+    "name": "Mistvane Lattice Balancing",
+    "complexity": "hard",
+    "createdAt": "03.11.2026"
   }
 ]
