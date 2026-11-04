@@ -618,5 +618,10 @@
     "name": "Glassmoth Lantern Assignment",
     "complexity": "medium",
     "createdAt": "04.11.2026"
+  },
+  {
+    "name": "Brackenlight Confluence Counting",
+    "complexity": "medium",
+    "createdAt": "04.11.2026"
   }
 ]
