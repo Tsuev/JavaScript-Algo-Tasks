@@ -613,5 +613,10 @@
     "name": "Mistvane Lattice Balancing",
     "complexity": "hard",
     "createdAt": "03.11.2026"
+  },
+  {
+    "name": "Glassmoth Lantern Assignment",
+    "complexity": "medium",
+    "createdAt": "04.11.2026"
   }
 ]
