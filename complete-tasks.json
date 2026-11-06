@@ -633,5 +633,10 @@
     "name": "Marlstone Stratum Alignment",
     "complexity": "medium",
     "createdAt": "06.11.2026"
+  },
+  {
+    "name": "Thistlefen Ferry Timetabling",
+    "complexity": "medium",
+    "createdAt": "06.11.2026"
   }
 ]
