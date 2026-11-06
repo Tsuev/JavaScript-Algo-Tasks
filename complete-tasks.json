@@ -623,5 +623,10 @@
     "name": "Brackenlight Confluence Counting",
     "complexity": "medium",
     "createdAt": "04.11.2026"
+  },
+  {
+    "name": "Frostlark Ledger Balancing",
+    "complexity": "medium",
+    "createdAt": "06.11.2026"
   }
 ]
