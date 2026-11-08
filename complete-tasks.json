@@ -643,5 +643,10 @@
     "name": "Glimmerfin Drift Partition",
     "complexity": "medium",
     "createdAt": "07.11.2026"
+  },
+  {
+    "name": "Mothveil Lantern Covering",
+    "complexity": "hard",
+    "createdAt": "08.11.2026"
   }
 ]
