@@ -653,5 +653,10 @@
     "name": "Marrowlight Lattice Reweaving",
     "complexity": "hard",
     "createdAt": "09.11.2026"
+  },
+  {
+    "name": "Mireglass Conduit Reweaving",
+    "complexity": "medium",
+    "createdAt": "10.11.2026"
   }
 ]
