@@ -658,5 +658,10 @@
     "name": "Mireglass Conduit Reweaving",
     "complexity": "medium",
     "createdAt": "10.11.2026"
+  },
+  {
+    "name": "Umberlight Weir Sequencing",
+    "complexity": "hard",
+    "createdAt": "10.11.2026"
   }
 ]
