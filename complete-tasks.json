@@ -663,5 +663,10 @@
     "name": "Umberlight Weir Sequencing",
     "complexity": "hard",
     "createdAt": "10.11.2026"
+  },
+  {
+    "name": "Sablethorn Echo Routing",
+    "complexity": "medium",
+    "createdAt": "10.11.2026"
   }
 ]
