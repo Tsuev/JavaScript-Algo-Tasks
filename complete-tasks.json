@@ -668,5 +668,10 @@
     "name": "Sablethorn Echo Routing",
     "complexity": "medium",
     "createdAt": "10.11.2026"
+  },
+  {
+    "name": "Silentbrook Stepping Stones",
+    "complexity": "hard",
+    "createdAt": "11.11.2026"
   }
 ]
