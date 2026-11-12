@@ -673,5 +673,10 @@
     "name": "Silentbrook Stepping Stones",
     "complexity": "hard",
     "createdAt": "11.11.2026"
+  },
+  {
+    "name": "Fogstone Archipelago Linking",
+    "complexity": "medium",
+    "createdAt": "12.11.2026"
   }
 ]
