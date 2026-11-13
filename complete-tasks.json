@@ -688,5 +688,10 @@
     "name": "Duskbloom Ripple Alignment",
     "complexity": "medium",
     "createdAt": "13.11.2026"
+  },
+  {
+    "name": "Nightharrow Beacon Pairing",
+    "complexity": "medium",
+    "createdAt": "13.11.2026"
   }
 ]
