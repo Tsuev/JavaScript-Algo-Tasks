@@ -683,5 +683,10 @@
     "name": "Tallowglass Tide Reconciliation",
     "complexity": "medium",
     "createdAt": "13.11.2026"
+  },
+  {
+    "name": "Duskbloom Ripple Alignment",
+    "complexity": "medium",
+    "createdAt": "13.11.2026"
   }
 ]
