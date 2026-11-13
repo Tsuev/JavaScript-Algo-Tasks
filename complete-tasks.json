@@ -678,5 +678,10 @@
     "name": "Fogstone Archipelago Linking",
     "complexity": "medium",
     "createdAt": "12.11.2026"
+  },
+  {
+    "name": "Tallowglass Tide Reconciliation",
+    "complexity": "medium",
+    "createdAt": "13.11.2026"
   }
 ]
