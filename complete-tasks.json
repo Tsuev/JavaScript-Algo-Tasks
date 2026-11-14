@@ -693,5 +693,10 @@
     "name": "Nightharrow Beacon Pairing",
     "complexity": "medium",
     "createdAt": "13.11.2026"
+  },
+  {
+    "name": "Copalroot Ford Bridging",
+    "complexity": "medium",
+    "createdAt": "14.11.2026"
   }
 ]
