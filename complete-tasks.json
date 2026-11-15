@@ -703,5 +703,10 @@
     "name": "Thornwake Lattice Pruning",
     "complexity": "hard",
     "createdAt": "14.11.2026"
+  },
+  {
+    "name": "Saltbreeze Lighthouse Rotation",
+    "complexity": "medium",
+    "createdAt": "15.11.2026"
   }
 ]
