@@ -708,5 +708,10 @@
     "name": "Saltbreeze Lighthouse Rotation",
     "complexity": "medium",
     "createdAt": "15.11.2026"
+  },
+  {
+    "name": "Duskfern Torrent Partition",
+    "complexity": "medium",
+    "createdAt": "15.11.2026"
   }
 ]
