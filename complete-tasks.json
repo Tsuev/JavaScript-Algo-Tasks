@@ -723,5 +723,10 @@
     "name": "Duskmere Lantern Rounds",
     "complexity": "medium",
     "createdAt": "16.11.2026"
+  },
+  {
+    "name": "Hollowreed Tide Locking",
+    "complexity": "medium",
+    "createdAt": "16.11.2026"
   }
 ]
