@@ -718,5 +718,10 @@
     "name": "Hollowbell Resonance Ordering",
     "complexity": "hard",
     "createdAt": "16.11.2026"
+  },
+  {
+    "name": "Duskmere Lantern Rounds",
+    "complexity": "medium",
+    "createdAt": "16.11.2026"
   }
 ]
