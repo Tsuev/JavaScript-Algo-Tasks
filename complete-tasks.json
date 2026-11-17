@@ -728,5 +728,10 @@
     "name": "Hollowreed Tide Locking",
     "complexity": "medium",
     "createdAt": "16.11.2026"
+  },
+  {
+    "name": "Glimmerreed Channel Arbitration",
+    "complexity": "hard",
+    "createdAt": "17.11.2026"
   }
 ]
