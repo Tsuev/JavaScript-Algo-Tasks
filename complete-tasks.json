@@ -733,5 +733,10 @@
     "name": "Glimmerreed Channel Arbitration",
     "complexity": "hard",
     "createdAt": "17.11.2026"
+  },
+  {
+    "name": "Palefern Ripple Arbitration",
+    "complexity": "medium",
+    "createdAt": "17.11.2026"
   }
 ]
