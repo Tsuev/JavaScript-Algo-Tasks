@@ -738,5 +738,10 @@
     "name": "Palefern Ripple Arbitration",
     "complexity": "medium",
     "createdAt": "17.11.2026"
+  },
+  {
+    "name": "Cinderlace Ladder Weaving",
+    "complexity": "medium",
+    "createdAt": "17.11.2026"
   }
 ]
