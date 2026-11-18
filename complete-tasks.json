@@ -753,5 +753,10 @@
     "name": "Duskquill Lantern Weighing",
     "complexity": "medium",
     "createdAt": "18.11.2026"
+  },
+  {
+    "name": "Velvetide Beacon Assignment",
+    "complexity": "medium",
+    "createdAt": "18.11.2026"
   }
 ]
