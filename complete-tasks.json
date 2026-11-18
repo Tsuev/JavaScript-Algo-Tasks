@@ -743,5 +743,10 @@
     "name": "Cinderlace Ladder Weaving",
     "complexity": "medium",
     "createdAt": "17.11.2026"
+  },
+  {
+    "name": "Rimeglass Avalanche Channelling",
+    "complexity": "hard",
+    "createdAt": "18.11.2026"
   }
 ]
