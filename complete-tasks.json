@@ -748,5 +748,10 @@
     "name": "Rimeglass Avalanche Channelling",
     "complexity": "hard",
     "createdAt": "18.11.2026"
+  },
+  {
+    "name": "Duskquill Lantern Weighing",
+    "complexity": "medium",
+    "createdAt": "18.11.2026"
   }
 ]
