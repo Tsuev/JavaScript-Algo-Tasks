@@ -758,5 +758,10 @@
     "name": "Velvetide Beacon Assignment",
     "complexity": "medium",
     "createdAt": "18.11.2026"
+  },
+  {
+    "name": "Cinderquill Knot Alignment",
+    "complexity": "medium",
+    "createdAt": "19.11.2026"
   }
 ]
