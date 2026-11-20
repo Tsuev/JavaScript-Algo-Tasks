@@ -778,5 +778,10 @@
     "name": "Moonharrow Lantern Concordance",
     "complexity": "medium",
     "createdAt": "20.11.2026"
+  },
+  {
+    "name": "Oakenveil Sap Routing",
+    "complexity": "medium",
+    "createdAt": "20.11.2026"
   }
 ]
