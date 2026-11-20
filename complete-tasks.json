@@ -773,5 +773,10 @@
     "name": "Onyxbloom Ripple Budgeting",
     "complexity": "medium",
     "createdAt": "19.11.2026"
+  },
+  {
+    "name": "Moonharrow Lantern Concordance",
+    "complexity": "medium",
+    "createdAt": "20.11.2026"
   }
 ]
