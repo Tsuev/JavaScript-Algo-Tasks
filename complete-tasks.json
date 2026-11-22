@@ -793,5 +793,10 @@
     "name": "Hollowglass Beacon Titration",
     "complexity": "medium",
     "createdAt": "21.11.2026"
+  },
+  {
+    "name": "Lumenroot Echo Bridging",
+    "complexity": "medium",
+    "createdAt": "22.11.2026"
   }
 ]
