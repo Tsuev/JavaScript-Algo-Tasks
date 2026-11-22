@@ -798,5 +798,10 @@
     "name": "Lumenroot Echo Bridging",
     "complexity": "medium",
     "createdAt": "22.11.2026"
+  },
+  {
+    "name": "Polarfern Spiral Counting",
+    "complexity": "medium",
+    "createdAt": "22.11.2026"
   }
 ]
