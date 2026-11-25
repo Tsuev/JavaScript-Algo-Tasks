@@ -813,5 +813,10 @@
     "name": "Opalfern Tide Reconciliation",
     "complexity": "hard",
     "createdAt": "24.11.2026"
+  },
+  {
+    "name": "Thornbloom Rookery Unfurling",
+    "complexity": "medium",
+    "createdAt": "25.11.2026"
   }
 ]
