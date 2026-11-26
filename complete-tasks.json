@@ -828,5 +828,10 @@
     "name": "Thornmere Beacon Batching",
     "complexity": "medium",
     "createdAt": "26.11.2026"
+  },
+  {
+    "name": "Wickhollow Lantern Drift",
+    "complexity": "medium",
+    "createdAt": "26.11.2026"
   }
 ]
