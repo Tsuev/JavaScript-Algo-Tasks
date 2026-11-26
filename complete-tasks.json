@@ -823,5 +823,10 @@
     "name": "Opalwind Ferry Reconciling",
     "complexity": "medium",
     "createdAt": "25.11.2026"
+  },
+  {
+    "name": "Thornmere Beacon Batching",
+    "complexity": "medium",
+    "createdAt": "26.11.2026"
   }
 ]
