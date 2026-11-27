@@ -838,5 +838,10 @@
     "name": "Vesperglass Footprint Packing",
     "complexity": "medium",
     "createdAt": "27.11.2026"
+  },
+  {
+    "name": "Thornlight Relay Weaving",
+    "complexity": "medium",
+    "createdAt": "27.11.2026"
   }
 ]
